@@ -1,6 +1,6 @@
 {
   "name": "timeless-date",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "JavaScript class for handling dates without a time of day",
   "type": "module",
   "exports": {
